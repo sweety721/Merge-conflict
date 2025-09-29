@@ -1,1 +1,1 @@
-city1 banglore
+city banglore
